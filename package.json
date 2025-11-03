@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "postinstall": "npx lightningcss --version || true",
     "dev": "next dev -p 4000",
     "build": "next build",
     "start": "next start"
