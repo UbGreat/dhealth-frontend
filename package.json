@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-     "dev": "next dev -p 4000",
+    "postinstall": "npx lightningcss --version || true",
+    "dev": "next dev -p 4000",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+     
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
