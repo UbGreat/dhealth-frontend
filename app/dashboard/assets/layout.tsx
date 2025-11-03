@@ -1,4 +1,4 @@
-export default function LoginLayout({
+export default function AssetLayout({
   children,
 }: {
   children: React.ReactNode
