@@ -1,6 +1,7 @@
 import Header from "./components/header/header";
 import Sidebar from "./components/sidebar/sidebar";
 import DashboardPage from "./dashboard/page";
+import LoginForm from "./components/loginform/LoginForm";
 
 export default function Home() {
   return (
