@@ -7,25 +7,25 @@
 // export const authOptions:NextAuthOptions =  {
 //   providers: [
 //     // OAuth authentication providers...
-//     AppleProvider({
-//       clientId: process.env.APPLE_ID,
-//       clientSecret: process.env.APPLE_SECRET
-//     }),
-//     FacebookProvider({
-//       clientId: process.env.FACEBOOK_ID,
-//       clientSecret: process.env.FACEBOOK_SECRET
-//     }),
-//     GoogleProvider(options: {
-//       clientId: process.env.GOOGLE_ID,
-//       clientSecret: process.env.GOOGLE_SECRET,
-//       authorization: {
-//         params: {
-//           prompt: "consent",
-//           access_type: 'offline',
-//           response_type: 'çode',
-//         }
-//       }
-//     }),
+//     // AppleProvider({
+//     //   clientId: process.env.APPLE_ID,
+//     //   clientSecret: process.env.APPLE_SECRET
+//     // }),
+//     // FacebookProvider({
+//     //   clientId: process.env.FACEBOOK_ID,
+//     //   clientSecret: process.env.FACEBOOK_SECRET
+//     // }),
+//     // GoogleProvider(options: {
+//     //   clientId: process.env.GOOGLE_ID,
+//     //   clientSecret: process.env.GOOGLE_SECRET,
+//     //   authorization: {
+//     //     params: {
+//     //       prompt: "consent",
+//     //       access_type: 'offline',
+//     //       response_type: 'çode',
+//     //     }
+//     //   }
+//     // }),
 //     // Passwordless / email sign in
 //     EmailProvider({
 //       server: process.env.MAIL_SERVER,
