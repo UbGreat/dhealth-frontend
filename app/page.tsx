@@ -27,8 +27,6 @@ export default function Home() {
             <Link href = '/login'>Login to continue</Link>
           </div>
         </div>
-        {/* <Sidebar /> */}
-        {/* <DashboardPage /> */}
       </main>
     </div>
   );
